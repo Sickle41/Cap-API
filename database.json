@@ -1,0 +1,323 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Daniel Randle",
+      "email": "drandle@gmail.com",
+      "decksId": [
+        1
+      ]
+    },
+    {
+      "email": "christian41@gmail.com",
+      "fullName": "Christian Randle",
+      "id": 2
+    },
+    {
+      "email": "marcy@gmail.com",
+      "fullName": "Marceline Randle",
+      "decksId": [
+        "a7f5e4d6-7950-4d98-a130-aad75247f11a"
+      ],
+      "id": 3
+    },
+    {
+      "email": "briggs@gmail.com",
+      "fullName": "Jackie Briggs",
+      "decksId": [
+        [
+          "1055a468-3140-4796-bc7d-fd9c67e0422d"
+        ]
+      ],
+      "id": 4
+    },
+    {
+      "email": "savage@gmail.com",
+      "fullName": "Ricky Savage",
+      "decksId": [
+        "5a5bd0c3-cef7-4db1-bc3f-0acd7e8fc6c7"
+      ],
+      "id": 5
+    }
+  ],
+  "decks": [
+    {
+      "id": 1,
+      "name": "First Deck",
+      "cardId": [
+        1,
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "5a5bd0c3-cef7-4db1-bc3f-0acd7e8fc6c7",
+      "name": "User Deck",
+      "cardId": [29, 1, 4]
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "name": "Forest Hyren",
+      "regionId": 3,
+      "typeId": 1,
+      "image": "https://static.wikia.nocookie.net/magination/images/d/d2/Forest_Hyren_MND.png/revision/latest?cb=20111206052334"
+    },
+    {
+      "id": 2,
+      "name": "Weebo",
+      "regionId": 3,
+      "typeId": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1pQVVnEyEe-NeLlgGrV8vEWSBQYo9MDRXw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Flame Hyren",
+      "regionId": 2,
+      "typeId": 1,
+      "image": "https://cgc.chakra42.net/images/magi-nation-duel/base-set/MagiNation_Unlimited_Flame_Hyren.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Arbolit",
+      "regionId": 2,
+      "typeId": 1,
+      "image": "https://i.ebayimg.com/images/g/CfYAAOSw8LJfie9W/s-l1200.webp"
+    },
+    {
+      "id": 5,
+      "name": "Alaban",
+      "regionId": 1,
+      "typeId": 1,
+      "image": "https://lackeyccg.com/magination/medium/Alaban.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ayebaw",
+      "regionId": 1,
+      "typeId": 1,
+      "image": "https://static.wikia.nocookie.net/magination/images/f/fd/Ayebaw_UL.jpg/revision/latest/scale-to-width-down/250?cb=20090401234834"
+    },
+    {
+      "id": 7,
+      "name": "Abaquist",
+      "regionId": 4,
+      "typeId": 1,
+      "image": "https://static.wikia.nocookie.net/magination/images/6/6d/Abaquist_UL.jpg/revision/latest/scale-to-width-down/250?cb=20090401232803"
+    },
+    {
+      "id": 8,
+      "name": "Bwill",
+      "regionId": 4,
+      "typeId": 1,
+      "image": "https://lackeyccg.com/magination/medium/Bwill.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Agovo",
+      "regionId": 5,
+      "typeId": 1,
+      "image": "https://lackeyccg.com/magination/medium/Agovo.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bisiwog",
+      "regionId": 5,
+      "typeId": 1,
+      "image": "https://lackeyccg.com/magination/medium/Bisiwog.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Colossus",
+      "regionId": 6,
+      "typeId": 1,
+      "image": "https://lackeyccg.com/magination/medium/Colossus.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Adis",
+      "regionId": 1,
+      "typeId": 2,
+      "image": "https://lackeyccg.com/magination/medium/Adis.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ashgar",
+      "regionId": 2,
+      "typeId": 2,
+      "image": "https://lackeyccg.com/magination/medium/Ashgar.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Evu",
+      "regionId": 3,
+      "typeId": 2,
+      "image": "https://lackeyccg.com/magination/medium/Evu.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Blu",
+      "regionId": 4,
+      "typeId": 2,
+      "image": "https://lackeyccg.com/magination/medium/Blu.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Fossik",
+      "regionId": 5,
+      "typeId": 2,
+      "image": "https://lackeyccg.com/magination/medium/Fossik.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Eclipse",
+      "regionId": 1,
+      "typeId": 3,
+      "image": "https://lackeyccg.com/magination/medium/Eclipse.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Fire Ball",
+      "regionId": 2,
+      "typeId": 3,
+      "image": "https://lackeyccg.com/magination/medium/Fire_ball.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Flood of Energy",
+      "regionId": 3,
+      "typeId": 3,
+      "image": "https://lackeyccg.com/magination/medium/Flood_of_Energy.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Entangle",
+      "regionId": 4,
+      "typeId": 3,
+      "image": "https://lackeyccg.com/magination/medium/Entangle.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Bottomless Pit",
+      "regionId": 5,
+      "typeId": 3,
+      "image": "https://lackeyccg.com/magination/medium/Bottomless_Pit.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Arderial's Crown",
+      "regionId": 1,
+      "typeId": 4,
+      "image": "https://lackeyccg.com/magination/medium/Arderials_Crown.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Gorgle's Ring",
+      "regionId": 2,
+      "typeId": 4,
+      "image": "https://lackeyccg.com/magination/medium/Gorgles_Ring.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Book of Life",
+      "regionId": 3,
+      "typeId": 4,
+      "image": "https://lackeyccg.com/magination/medium/Book_of_Life.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Corf Pearl",
+      "regionId": 4,
+      "typeId": 4,
+      "image": "https://lackeyccg.com/magination/medium/Corf_Pearl.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Amulet of Ombor",
+      "regionId": 5,
+      "typeId": 4,
+      "image": "https://lackeyccg.com/magination/medium/Amulet_of_Ombor.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Ancestral Flute",
+      "regionId": 6,
+      "typeId": 4,
+      "image": "https://lackeyccg.com/magination/medium/Ancestral_Flute.jpg"
+    },
+    {
+      "name": "Orish",
+      "imageUrl": "https://lackeyccg.com/magination/medium/Orish.jpg",
+      "type": "Creature",
+      "region": "Arderial",
+      "id": 28
+    },
+    {
+      "name": "Pharan",
+      "imageUrl": "https://lackeyccg.com/magination/medium/Pharan.jpg",
+      "type": "Creature",
+      "region": "Arderial",
+      "id": 29
+    },
+    {
+      "name": "Raxis",
+      "imageUrl": "https://lackeyccg.com/magination/medium/Raxis.jpg",
+      "type": "Creature",
+      "region": "Cald",
+      "id": 30
+    },
+    {
+      "name": "Robes of Ages",
+      "imageUrl": "https://lackeyccg.com/magination/medium/Robe_of_the_Ages.jpg",
+      "type": "Relic",
+      "region": "Universal",
+      "id": 31
+    }
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "name": "Arderial"
+    },
+    {
+      "id": 2,
+      "name": "Cald"
+    },
+    {
+      "id": 3,
+      "name": "Naroom"
+    },
+    {
+      "id": 4,
+      "name": "Orothe"
+    },
+    {
+      "id": 5,
+      "name": "Underneath"
+    },
+    {
+      "id": 6,
+      "name": "Universal"
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "name": "Creature"
+    },
+    {
+      "id": 2,
+      "name": "Magi"
+    },
+    {
+      "id": 3,
+      "name": "Spell"
+    },
+    {
+      "id": 4,
+      "name": "Relic"
+    }
+  ]
+}
